@@ -5,7 +5,8 @@ Program developer
 -----------------
 
 Hello,
-
+Iam Phuphirawit 
+Age 21
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://nomomorin.github.io/phuphirawit/)
 * 🧠  I'm learning a machine learning
