@@ -9,6 +9,7 @@ Iam Phuphirawit
 Age 21
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://nomomorin.github.io/phuphirawit/)
+* 👉 My channel about a game studio https://www.youtube.com/@HumMoiSTUDIO
 * 🧠  I'm learning a machine learning
 * 🤝  I'm open to collaborating on everybody
 
